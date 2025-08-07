@@ -96,9 +96,7 @@ Start the Django development server.
 
 Bash
 
-# Choose a port that is free, e.g., 8090
-
-python manage.py runserver 8090
+python manage.py runserver 
 
 4. Set Up the Frontend
    In a new terminal window, navigate to the frontend directory.
